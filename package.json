@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md",
+   "name": "stewardbot",
    "version": "1.2.8-api",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by steward   .",
    "main": "lib/client.js",
    "type": "commonjs",
    "engines" : { "node": "v18.16.0", "npm": "9.5.1" },
